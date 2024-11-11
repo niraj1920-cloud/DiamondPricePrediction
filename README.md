@@ -71,6 +71,7 @@ Dataset Source Link : https://www.kaggle.com/competitions/playground-series-s3e8
 │					
 └── setup.py                       # Project's metadata and configuration details for installation
 
+
 ## Installation Steps
 Follow these steps to install and set up the project directly from the GitHub repository:
 
@@ -118,8 +119,7 @@ Follow these steps to install and set up the project directly from the GitHub re
 
 ![image](https://github.com/user-attachments/assets/b5756a8f-1aca-4848-b730-3cdda2cad394)
 
-
-![App Screenshot](https://ci3.googleusercontent.com/mail-img-att/AGAZnRr66R2FMQ5A68-73D25bIDmoUzbEYVqM1DUcMbBbNcFDGdD5vSZNcBqecgl-9zcAfGKo68MG7enBBoeQwTHedbpE00uRedccporpUObaCuA0SecNEHaXem8IyR9LWz3gv9Ht-AjAFvI3ZDCYRM59LUpI6AjWbFM9Nhmh0fySQ67TakIb6u188LfNBZEpYAiLu5m9hFGuPBHgHxCl_ONrqQS8sNwAR6uYlq03AOr482kOU6PN8MjRXX-AWNcJ9PgUS42hI-i_e_lIZzgAyuAg2IX3Xi0u6t11rirGyyCMud_M3kBjGj-F-It53I19fagskQNKcRE4BTGSaBO-wix5HxpOX4SESiKgkKA83sQ0_XpO2bpUzOhiujXm9xTnIBPZjRh2tLWmLE_TPYabCOy1HuTwcSMfn08842zvofo2k__bWm9-rNbtHLkoGr1uLiCqHKeKsRE6silCLvMSNFqs3EXJCpy8_kGUK-tb5jwt5lTWb_4exDVQRvI3zeS691dzeqTETYpcmcvKxQdWdKreMxn24lgsCBHasv6vljCFirv-EijLk571AiJ6FOxEarQclqL7KRYI8v3N6VwsCNzTDoQbjz9s5wUhEXEK-ycMtxUL1OihEvPeqiIMQPHGRrNYLUUc31oolSoHL0of6SAZAwPYlDS3ewuMFxEfRq3DG64GTwzlIewAaoSsifQBBVH2OyI2mdxrElcaJIZ2Qug6JYnk7AAN-d_f1NSqFbxU0q20WUjOBAbKW0qif1gVPW4NRopg7MC7M5y5izO0TdJQo59bAQrLLxpCr8P9FFohujmJHWelNyqlgrwxoA7eBgTJo4wUtL_rzV3UrWq2MGXbHu1npxJmYSpG7GB9TNLEGtwQg6iF4tcrbIhTen9Gwsrdage0ctJ6M_mSDyXw4OUGFq269pozQrQ0HpeKmK1syMfWO70SUt-5C3iSGZ5buxejIZ76KEruRiOIhBzofHdDdMl9eBdOo3cothPnFjTpsZ9RBiX3QmMHS1uGeFgeOjVv3t_Qfqie_zmmGTZ4hoIfAhvvA=s0-l75-ft)
+![image](https://github.com/user-attachments/assets/2f8bb925-451a-4032-9767-824083a97284)
 
 
 
