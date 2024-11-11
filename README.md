@@ -32,6 +32,7 @@ Dataset Source Link : https://www.kaggle.com/competitions/playground-series-s3e8
 - Flask
 - 
 ## Project Structure
+
 ├── artifacts/                    
 │   ├── preprocessor.pkl           # Pickle file for data preprocessing
 │   ├── model.pkl                  # Pickle file for the trained model
