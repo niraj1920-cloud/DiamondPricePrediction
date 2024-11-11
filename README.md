@@ -33,6 +33,7 @@ Dataset Source Link : https://www.kaggle.com/competitions/playground-series-s3e8
 - Seaborn
 - Matplotlib
 - Flask
+- 
 ## Project Structure
 ├── artifacts/                    
 │   ├── preprocessor.pkl           # Pickle file for data preprocessing
@@ -110,10 +111,6 @@ Follow these steps to install and set up the project directly from the GitHub re
 ```bash
   http://127.0.0.1:5000/
 ```
-
-
-
-
 
 ## Screenshots
 
