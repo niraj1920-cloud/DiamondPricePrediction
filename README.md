@@ -3,6 +3,10 @@
 
 ## About the Project
 The Diamond Price Prediction project is an end-to-end machine learning initiative designed to forecast the prices of diamonds. Diamonds are highly valuable gemstones, and their prices can vary significantly based on various factors. This project aims to leverage machine learning techniques to provide accurate predictions of diamond prices, thereby offering valuable insights to both buyers and sellers in the diamond market.
+
+![image](https://github.com/user-attachments/assets/73bb30b9-d465-4a9c-a373-bc4d4ae27176)
+
+
 ## About Dataset
 The goal is to predict price of given diamond (Regression Analysis).
 
